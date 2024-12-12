@@ -1,5 +1,6 @@
 # EDA
 Perform EDA on the Indian food dataset , sourced from kaggle
+Source : https://www.kaggle.com/datasets/nehaprabhavalkar/indian-food-101
 
 EDA (Exploratory Data Analysis) is the process of exploring and analyzing a dataset to understand its main characteristics, identify patterns, relationships, and anomalies, and check the quality of data before applying any machine learning models or further statistical analysis.
 
